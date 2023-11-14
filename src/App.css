@@ -1,0 +1,19 @@
+.App{
+  display: flex;
+  flex-direction: column;
+align-items: center;
+}
+.selectlist{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.buton{
+  width: 25%;
+  background-color: blue;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 1px solid blue;
+}
